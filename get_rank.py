@@ -1,11 +1,19 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-import urllib
+import urllib2
 import re
+import sys
 
-html = urllib.urlopen(r'http://movie.douban.com/subject/1292052/').read()
-pattern = r'<span property="v:itemreviewed">([a-zA-Z\u4E00-\u9FA5\s]+)</span>'
+req = urllib2.Request('http://movie.douban.com/subject/1292052/')
+content = urllib2.urlopen(req).read().decode("utf-8")
+pattern_rank = '<span class="top250-no">No.(\d{1,3})</span>'
+pattern_name = '<span property="v:itemreviewed">(.*?)</span>'
+pattern_year = '<span class="year">(\(\d{3,4}\))</span>'
 
-rank = re.findall(pattern,html)
-print rank
+name = re.search(pattern_name,content)
+#print
+#print html.find('itemreviewed')
+#print name
+#print pattern
+print name.group(1)
