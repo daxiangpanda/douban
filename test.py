@@ -29,6 +29,7 @@ class DouBanSpider(object) :
 def main() :
     my_spider = DouBanSpider()
     my_spider.start_spider()
+
     print my_spider.datas
     for item in my_spider.datas :
         print item
