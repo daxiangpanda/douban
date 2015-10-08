@@ -1,7 +1,7 @@
 import string
 import re
 import urllib2
- 
+
 class DouBanSpider(object) :
     def __init__(self) :
         self.page = 1
@@ -20,7 +20,7 @@ class DouBanSpider(object) :
                 temp_data.append("Top" + str(self._top_num) + " " + item)
                 self._top_num += 1
         self.datas.extend(temp_data)
-     
+
     def start_spider(self) :
         while self.page <= 4 :
             my_page = self.get_page(self.page)

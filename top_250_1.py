@@ -5,22 +5,22 @@
 import urllib
 import urllib2
 import re
+from bs4 import BeautifulSoup
 import sys
-
 reload(sys)
-sys.setdefaultencoding('utf8')
+sys.setdefaultencoding("utf-8")
 
 def get_info(content):
-    pattern_rank = '<span class="top250-no">No.(\d{1,3})</span>'
-    pattern_name = '<span property="v:itemreviewed">(.*?)</span>'
-    pattern_year = '<span class="year">(\(\d{3,4}\))</span>'
-    pattern_score = '<strong class="ll rating_num" property="v:average">(\d\.\d)</strong>'
-    pattern_intro = '<span property="v:summary">(.*?)</span>'
-    name = re.search(pattern_name,content).group(1)
-    rank = re.search(pattern_rank,content).group(1)
-    year = re.search(pattern_year,content).group(1)
-    score = re.search(pattern_score,content).group(1)
-    intro = re.search(pattern_intro,content).group(1)
+    soup = BeautifulSoup(content)
+    rank = soup.find('span','top250-no').get_text()[3]
+    name = soup.find('span',property="v:itemreviewed").get_text()
+    year = soup.find('span','year').get_text()
+    try:
+        intro = soup.find('span','all hidden').get_text().replace(' ','')
+    except:
+        intro = soup.find('span','property="v:summary"').get_text().replace(' ','')
+    intro = intro.replace(r'\n','')
+    score = soup.find('strong','ll rating_num').get_text()
     return rank,name,year,score,intro
 f = open(r'/home/ted/python/douban/豆瓣top250.txt','w+')
 for i in range(0,250,25):
