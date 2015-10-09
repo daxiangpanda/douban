@@ -1,0 +1,2377 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-linux ua-ff41">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+
+    <title>
+        这个杀手不太冷 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    
+
+
+    <link rel="apple-touch-icon" href="/pics/movie/apple-touch-icon.png">
+    <link href="http://img3.douban.com/f/shire/7d86b1d60a9694899e8a9be01237962e1954f111/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="http://img3.douban.com/f/shire/d149e012d07540a0085b70c75310d28e3b365e6f/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="http://img3.douban.com/f/movie/e9d9543ebc06f2964039a2e94898f84ce77fc070/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="http://img3.douban.com/f/shire/e4d301029a110cc88722e153847a9588953e418f/js/douban.js"></script>
+    <script type="text/javascript" src="http://img3.douban.com/f/shire/edd963ebd2d664b02e07affb6d4db29ac3e41a73/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="这个杀手不太冷,Léon,这个杀手不太冷影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="这个杀手不太冷电影简介和剧情介绍,这个杀手不太冷影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=http://m.douban.com/movie/subject/1295644/"/>
+    <link rel="alternate" href="android-app://com.douban.movie/doubanmovie/subject/1295644/" />
+    <script type="text/javascript" src="http://img3.douban.com/f/shire/38311a6c074fc29d6900856bf39a433061b98d6e/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript">
+        Do.add('dialog', {path: 'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js', type: 'js'});
+        Do.add('dialog-css', {path: 'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css', type: 'css'});
+        Do.add('handlebarsjs', {path: 'http://img3.douban.com/f/movie/ca54296583b9faa46ca0d1eec2c85d855a5f3ca1/js/movie/lib/handlebars.current.js', type: 'js'});
+    </script>
+
+    <style type="text/css">
+    
+</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/4795853723d7934a.css">
+
+    <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+   
+
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+
+<div class="top-nav-info">
+      
+      <a href="http://www.douban.com/accounts/login?source=movie" class="nav-login" rel="nofollow">登录</a>
+      <a href="http://www.douban.com/accounts/register?source=movie" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+
+    <div class="top-nav-doubanapp">
+        
+        <a href="http://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+        <div id="top-nav-appintro" class="more-items">
+            <p class="slogan">汇集一亿人的生活趣味</p>
+            <p class="qrcode">
+                扫码直接下载
+            </p>
+            <div class="download">
+                <a href="http://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=iOS">Download on the App Store</a>
+                <a href="http://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=Android" class="download-android">Download Android</a>
+            </div>
+        </div>
+        
+    </div>
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li>
+            <a href="http://www.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-main&#34;,&#34;uid&#34;:&#34;0&#34;}">豆瓣</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://book.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-book&#34;,&#34;uid&#34;:&#34;0&#34;}">读书</a>
+            </li>
+          
+            
+            <li class="on">
+            <a href="http://movie.douban.com/" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-movie&#34;,&#34;uid&#34;:&#34;0&#34;}">电影</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://music.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-music&#34;,&#34;uid&#34;:&#34;0&#34;}">音乐</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/location/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-location&#34;,&#34;uid&#34;:&#34;0&#34;}">同城</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/group/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-group&#34;,&#34;uid&#34;:&#34;0&#34;}">小组</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-read&#34;,&#34;uid&#34;:&#34;0&#34;}">阅读</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://douban.fm/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-fm&#34;,&#34;uid&#34;:&#34;0&#34;}">FM</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-commodity&#34;,&#34;uid&#34;:&#34;0&#34;}">东西</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://market.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-market&#34;,&#34;uid&#34;:&#34;0&#34;}">市集</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="http://moment.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-moment&#34;,&#34;uid&#34;:&#34;0&#34;}">一刻</a></td></tr>
+                    
+                    <tr><td><a href="http://ypy.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-ypy&#34;,&#34;uid&#34;:&#34;0&#34;}">一拍一</a></td></tr>
+                    
+                    <tr><td><a href="http://9.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-9&#34;,&#34;uid&#34;:&#34;0&#34;}">九点</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+   
+
+
+
+
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="http://movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="http://movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">电影、影人、影院、电视剧</label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+
+    <!-- header ad begin -->
+    
+
+
+
+
+
+    <div id="dale_movie_top_nav_subject" class="ban-header"></div>
+    
+
+
+
+    <!-- header ad end -->
+
+  </div>
+  </div>
+  <div class="nav-secondary">
+      
+      <div class="nav-items nav-anon">
+          <ul>
+                                  
+                     <li><a href="http://movie.douban.com/nowplaying/">影讯&amp;购票</a></li>
+                 
+                     <li><a href="http://movie.douban.com/explore">选电影</a></li>
+                 
+                    
+                    <li class="site-nav-bt">
+                        <a href="http://movie.douban.com/tv/">电视剧</a>
+                    </li>
+                 
+                     <li><a href="http://movie.douban.com/chart">排行榜</a></li>
+                 
+                     <li><a href="http://movie.douban.com/tag/">分类</a></li>
+                 
+                            <li><a href="http://movie.douban.com/review/best/">影评</a></li>
+                 
+                     <li class="site-nav-bt"><a href="http://movie.douban.com/trailers">预告片</a></li>
+                 
+                    <li class="site-nav-bt">
+                        <a href="http://movie.douban.com/askmatrix/hot_questions/all">问答</a>
+                    </li>
+          
+          </ul>
+      </div>
+  </div>
+</div>
+
+
+  
+  <script id="suggResult" type="text/x-jquery-tmpl">
+      <li data-link="{{= url}}">
+          <a href="{{= url}}">
+              <img src="{{= img}}" width="40" />
+              <p>
+                  <em>{{= title}}</em>
+                  {{if year}}
+                      <span>{{= year}}</span>
+                  {{/if}}
+                  {{if sub_title}}
+                      <br /><span>{{= sub_title}}</span>
+                  {{/if}}
+                  {{if address}}
+                      <br /><span>{{= address}}</span>
+                  {{/if}}
+                  {{if episode}}
+                      {{if episode=="unknow"}}
+                          <br /><span>集数未知</span>
+                      {{else}}
+                          <br /><span>共{{= episode}}集</span>
+                      {{/if}}
+                  {{/if}}
+              </p>
+          </a>
+      </li>
+  </script>
+  
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+    <!-- top 250 begin -->
+    
+    <div class="top250"><span class="top250-no">No.2</span><span class="top250-link"><a href="http://movie.douban.com/top250" target="_blank">豆瓣电影Top250</a></span>
+    </div>
+
+    <!-- top 250 end -->
+    <h1>
+        <span property="v:itemreviewed">这个杀手不太冷 Léon</span>
+            <span class="year">(1994)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+
+    
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix" xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Movie">
+                <div class="subject clearfix">
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="http://movie.douban.com/subject/1295644/photos?type=R" title="点击看更多海报">
+        <img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p511118051.jpg" title="点击看更多海报" alt="Léon" rel="v:image" />
+   </a>
+    
+
+
+
+
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="/celebrity/1031876/" rel="v:directedBy">吕克·贝松</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="/celebrity/1031876/">吕克·贝松</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="/celebrity/1025182/" rel="v:starring">让·雷诺</a> / <a href="/celebrity/1054454/" rel="v:starring">娜塔莉·波特曼</a> / <a href="/celebrity/1010507/" rel="v:starring">加里·奥德曼</a> / <a href="/celebrity/1019050/" rel="v:starring">丹尼·爱罗</a> / <a href="/celebrity/1000208/" rel="v:starring">麦温</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">动作</span> / <span property="v:genre">犯罪</span><br/>
+        
+        <span class="pl">制片国家/地区:</span> 法国<br/>
+        <span class="pl">语言:</span> 英语 / 意大利语<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="1994-09-14(法国)">1994-09-14(法国)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="133">133分钟(国际版)</span> / 110分钟(公映版)<br/>
+        <span class="pl">又名:</span> 杀手莱昂 / 终极追杀令(台) / 杀手里昂 / Leon / Leon: The Professional<br/>
+        <span class="pl">IMDb链接:</span> <a href="http://www.imdb.com/title/tt0110413" target="_blank" rel="nofollow">tt0110413</a><br>
+
+</div>
+
+
+
+
+                </div>
+                    
+
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v:rating">
+        <p class="rating_self clearfix" typeof="v:Rating">
+            <span class="ll bigstar50"></span>
+            <strong class="ll rating_num" property="v:average">9.4</strong>
+            <span property="v:best" content="10.0"></span>
+        </p>
+        <p style="height:18px;margin:5px 0;font-size:12px;">
+            (<a href="collections"><span property="v:votes">613160</span>人评价</a>)
+        </p>
+            
+                
+                <span class="stars5 starstop" title="力荐"></span>
+                <div class="power" style="width:60px"></div>
+                73.5%
+                <br />
+                
+                <span class="stars4 starstop" title="推荐"></span>
+                <div class="power" style="width:18px"></div>
+                22.8%
+                <br />
+                
+                <span class="stars3 starstop" title="还行"></span>
+                <div class="power" style="width:2px"></div>
+                3.5%
+                <br />
+                
+                <span class="stars2 starstop" title="较差"></span>
+                <div class="power" style="width:0px"></div>
+                0.2%
+                <br />
+                
+                <span class="stars1 starstop" title="很差"></span>
+                <div class="power" style="width:0px"></div>
+                0.1%
+                <br />
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="/typerank?type_name=剧情&type=11&interval_id=100:90&action=">99% 剧情片</a><br/>
+            好于 <a href="/typerank?type_name=动作&type=5&interval_id=100:90&action=">99% 动作片</a><br/>
+        </div>
+</div>
+
+
+                
+            </div>
+                
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="http://www.douban.com/reason=collectwish&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1295644-wish">
+                <span>想看</span>
+            </a>
+            <a href="http://www.douban.com/reason=collectcollect&amp;ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1295644-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            评价:
+    <span id="rating"><span id="stars">
+    <a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1295644-1"><img src="http://img3.douban.com/pics/nst.gif" id="star1"/></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1295644-2"><img src="http://img3.douban.com/pics/nst.gif" id="star2"/></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1295644-3"><img src="http://img3.douban.com/pics/nst.gif" id="star3"/></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1295644-4"><img src="http://img3.douban.com/pics/nst.gif" id="star4"/></a><a href="http://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1295644-5"><img src="http://img3.douban.com/pics/nst.gif" id="star5"/></a></span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  /></span>
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                <li> 
+    <img src="http://img3.douban.com/f/shire/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写短评</a>
+ </li>
+                    <li> 
+    
+    <img src="http://img3.douban.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+    <img src="http://img3.douban.com/f/shire/61cc48ba7c40e0272d46bb93fe0dc514f3b71ec5/pics/add-doulist.gif" />&nbsp;
+    <a href="/subject/1295644/questions/ask?from=subject_top">提问题</a>
+ </li>
+            
+    
+                <li> 
+    
+
+
+
+ </li>
+            
+
+
+        
+    
+        
+                <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-1295644">
+    <a href= "#"
+        data-type="电影"
+        data-url="http://movie.douban.com/subject/1295644/"
+        data-desc="电影《这个杀手不太冷 Léon》 (来自豆瓣) "
+        data-title="电影《这个杀手不太冷 Léon》 (来自豆瓣) "
+        data-pic="http://img3.douban.com/view/movie_poster_cover/lpst/public/p511118051.jpg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = 'http://img3.douban.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('http://img3.douban.com/f/movie/f1162ff10dc353ebb3697d83fc5b982b4e60b36c/js/movie/lib/sharebutton.js');
+    </script>
+
+
+  </li>
+            
+    
+
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("/blank?sbj_page_click=bn_sharing");
+            });
+        });
+    </script>
+</div>
+
+
+
+
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="/j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="1295644">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="这个杀手不太冷 Léon (1994)">
+                <input type="hidden" name="desc" value="导演 吕克·贝松 主演 让·雷诺 / 娜塔莉·波特曼 / 法国 / 9.4分(613160评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="http://img3.douban.com/view/movie_poster_cover/ipst/public/p511118051.jpg" />
+                <strong>这个杀手不太冷 Léon (1994)</strong>
+                <p>导演 吕克·贝松 主演 让·雷诺 / 娜塔莉·波特曼 / 法国 / 9.4分(613160评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="/accounts/register?reason=recommend"  class="j a_show_login lnk-sharing" share-id="1295644" data-mode="plain" data-name="这个杀手不太冷 Léon (1994)" data-type="movie" data-desc="导演 吕克·贝松 主演 让·雷诺 / 娜塔莉·波特曼 / 法国 / 9.4分(613160评价)" data-href="http://movie.douban.com/subject/1295644/" data-image="http://img3.douban.com/view/movie_poster_cover/ipst/public/p511118051.jpg" data-properties="{}" data-redir="" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1002" data-object_id="1295644" data-target_type="rec" data-target_action="0" data-action_props="{&#34;subject_url&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;subject_title&#34;:&#34;这个杀手不太冷 Léon (1994)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_1295644"></div>
+
+
+        
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            <h2>这个杀手不太冷的剧情简介&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·</h2>
+            <div class="indent" id="link-report">
+                    
+                        <span property="v:summary" class="">
+                                　　里昂（让·雷诺饰）是名孤独的职业杀手，受人雇佣。一天，邻居家小姑娘马蒂尔达（纳塔丽·波特曼饰)敲开他的房门，要求在他那里暂避杀身之祸。原来邻居家的主人是警方缉毒组的眼线，只因贪污了一小包毒品而遭恶警（加里·奥德曼饰）杀害全家的惩罚。马蒂尔达得到里昂的留救，幸免于难，并留在里昂那里。里昂教小女孩使枪，她教里昂法文，两人关系日趋亲密，相处融洽。
+                                    <br />
+                                　　女孩想着去报仇，反倒被抓，里昂及时赶到，将女孩救回。混杂着哀怨情仇的正邪之战渐次升级，更大的冲突在所难免……
+                        </span>
+                        <span class="pl"><a href="http://movie.douban.com/help/movie#t0-qs">&copy;豆瓣</a></span>
+            </div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">这个杀手不太冷的预告片和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="http://movie.douban.com/subject/1295644/trailer">预告片1</a>&nbsp;|&nbsp; <a href="http://movie.douban.com/subject/1295644/all_photos">图片1633</a>&nbsp;|&nbsp; <a href="http://movie.douban.com/subject/1295644/mupload">添加图片</a>
+            ) </span>
+    </h2>
+
+
+        <ul class="related-pic-bd narrow">
+                <li>
+                    <a class="related-pic-video" href="http://movie.douban.com/trailer/108757/#content">
+                        <span></span>
+                        <img src="http://img4.douban.com/img/trailer/medium/1433855508.jpg?" width="178" height="100" alt="预告片" />
+                    </a>
+                </li>
+                <li>
+                    <a href="http://movie.douban.com/photos/photo/470981794/"><img src="http://img3.douban.com/view/photo/albumicon/public/p470981794.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="http://movie.douban.com/photos/photo/511077583/"><img src="http://img3.douban.com/view/photo/albumicon/public/p511077583.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="http://movie.douban.com/photos/photo/470981086/"><img src="http://img4.douban.com/view/photo/albumicon/public/p470981086.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="http://movie.douban.com/photos/photo/511077965/"><img src="http://img3.douban.com/view/photo/albumicon/public/p511077965.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+<div class="mod">
+    <div class="hd">
+        
+    <h2>
+        <i class="">这个杀手不太冷的获奖情况</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="http://movie.douban.com/subject/1295644/awards/">全部</a>
+            ) </span>
+    </h2>
+
+    </div>
+        
+        <ul class="award">
+            <li>第19届日本电影学院奖</li>
+            <li>最佳外语片(提名)</li>
+            <li></li>
+        </ul>
+</div>
+
+    
+
+
+
+
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+              · · · · · ·
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1292722/?from=subject-page" >
+                    <img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p457760035.jpg" alt="泰坦尼克号" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1292722/?from=subject-page" class="" >泰坦尼克号</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1291546/?from=subject-page" >
+                    <img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p1910813120.jpg" alt="霸王别姬" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1291546/?from=subject-page" class="" >霸王别姬</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1292052/?from=subject-page" >
+                    <img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p480747492.jpg" alt="肖申克的救赎" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1292052/?from=subject-page" class="" >肖申克的救赎</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1292720/?from=subject-page" >
+                    <img src="http://img4.douban.com/view/movie_poster_cover/spst/public/p510876377.jpg" alt="阿甘正传" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1292720/?from=subject-page" class="" >阿甘正传</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1292213/?from=subject-page" >
+                    <img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p648365452.jpg" alt="大话西游之大圣娶亲" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1292213/?from=subject-page" class="" >大话西游之大圣娶亲</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1293839/?from=subject-page" >
+                    <img src="http://img4.douban.com/view/movie_poster_cover/spst/public/p2173398296.jpg" alt="罗马假日" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1293839/?from=subject-page" class="" >罗马假日</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1292001/?from=subject-page" >
+                    <img src="http://img4.douban.com/view/movie_poster_cover/spst/public/p511146957.jpg" alt="海上钢琴师" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1292001/?from=subject-page" class="" >海上钢琴师</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/3011091/?from=subject-page" >
+                    <img src="http://img4.douban.com/view/movie_poster_cover/spst/public/p524964016.jpg" alt="忠犬八公的故事" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/3011091/?from=subject-page" class="" >忠犬八公的故事</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1292063/?from=subject-page" >
+                    <img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p510861873.jpg" alt="美丽人生" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1292063/?from=subject-page" class="" >美丽人生</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="http://movie.douban.com/subject/1300267/?from=subject-page" >
+                    <img src="http://img3.douban.com/view/movie_poster_cover/spst/public/p1963126880.jpg" alt="乱世佳人" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="http://movie.douban.com/subject/1300267/?from=subject-page" class="" >乱世佳人</a>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+    
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes pr5">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}a_vote_comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+        <a class="comment_btn j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow">
+            <span>我来说两句</span>
+        </a>
+
+            
+            
+    <h2>
+        <i class="">这个杀手不太冷的短评</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="http://movie.douban.com/subject/1295644/comments">全部 137562 条</a>
+            ) </span>
+    </h2>
+
+        </div>
+        <div class="mod-bd">
+                    
+    <div class="tab-hd">
+        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+        <a id="new-comments-tab" href="comments?sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+        <a id="following-comments-tab" href="follows_comments" data-id="following"  class="j a_show_login">我关注的</a>
+    </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+        <div class="comment-item" data-cid="18736491">
+            
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes pr5">884</span>
+                <input value="18736491" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="http://movie.douban.com/people/samsa/" class="">能工巧匠沙门哥</a>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="">
+                    2007-08-16
+                </span>
+            </span>
+        </h3>
+        <p class=""> 一半的魅力来自反派：Gary Oldman.
+        </p>
+    </div>
+
+        </div>
+        <div class="comment-item" data-cid="56981347">
+            
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes pr5">171</span>
+                <input value="56981347" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="http://movie.douban.com/people/cuican/" class="">璀璨</a>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="">
+                    2008-08-29
+                </span>
+            </span>
+        </h3>
+        <p class=""> 小萝莉和怪蜀黍的灿烂时光。
+        </p>
+    </div>
+
+        </div>
+        <div class="comment-item" data-cid="46245221">
+            
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes pr5">161</span>
+                <input value="46245221" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="http://movie.douban.com/people/MissSunflower/" class="">Camellia</a>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="">
+                    2008-06-23
+                </span>
+            </span>
+        </h3>
+        <p class=""> Léon： You&#39;re not going to lose me. You&#39;ve given me a taste for life. I wanna be happy. Sleep in a bed, have roots. And you&#39;ll never be alone again, Mathilda. Please, go now, baby, go. Calm down, go now, go. 
+        </p>
+    </div>
+
+        </div>
+        <div class="comment-item" data-cid="506451418">
+            
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes pr5">133</span>
+                <input value="506451418" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="http://movie.douban.com/people/wangmei/" class="">酚酞</a>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="">
+                    2012-03-10
+                </span>
+            </span>
+        </h3>
+        <p class=""> 看到泪飙，世上最温情的杀手。
+幸运的姑娘在12岁就遇到了真正的男人。
+
+        </p>
+    </div>
+
+        </div>
+
+
+
+                
+                &gt; <a href="comments?sort=new_score" >更多短评137562条</a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="/help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的帐号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="http://help.douban.com/help/ask?category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+
+
+            
+            
+        </div>
+    </div>
+
+
+
+    
+    
+        
+            
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+            关于《这个杀手不太冷》的问题
+            · · · · · ·
+            <span class="pl">
+                (<a href='http://movie.douban.com/subject/1295644/questions/?from=subject'>
+                    全部45个
+                </a>)
+            </span>
+        </h2>
+
+
+        
+    
+    <a class='j a_show_login comment_btn'
+        href='http://movie.douban.com/subject/1295644/questions/ask/?from=subject'>我来提问</a>
+
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="http://movie.douban.com/subject/1295644/questions/831/?from=subject" class="">
+                            如果小女孩不去找仇人报仇他俩是不是会像童话故事一样生活下去？
+                    </a>
+                </span>
+                <span class="meta">
+                    14人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="http://movie.douban.com/subject/1295644/questions/6516/?from=subject" class="">
+                            影片中两人在西餐厅用餐的时候，小女孩不停的笑是为什么？
+                    </a>
+                </span>
+                <span class="meta">
+                    11人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="http://movie.douban.com/subject/1295644/questions/213/?from=subject" class="">
+                            长大后的Mathilda会有怎样的人生？
+                    </a>
+                </span>
+                <span class="meta">
+                    13人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="http://movie.douban.com/subject/1295644/questions/260/?from=subject" class="">
+                            为何大家会喜欢上里边的那个BT反派？魅力何在？
+                    </a>
+                </span>
+                <span class="meta">
+                    43人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="http://movie.douban.com/subject/1295644/questions/7609/?from=subject" class="">
+                            总是坐在东尼餐厅后面的那个不说话的老人是谁？
+                    </a>
+                </span>
+                <span class="meta">
+                    2人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='http://movie.douban.com/subject/1295644/questions/?from=subject'>
+                全部45个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+        
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="review_section" class="" >
+        <div class="mod-hd">
+                
+        <a class="comment_btn j a_show_login" href="http://www.douban.com/register?reason=review" rel="nofollow"><span>我来评论这部电影</span></a>
+
+            
+                
+    <h2>
+        <i class="">这个杀手不太冷的影评</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="http://movie.douban.com/subject/1295644/reviews">全部2585</a>
+            ) </span>
+    </h2>
+
+        </div>
+
+            
+    <div class="mod-bd">
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    
+    <div class="review">
+        <div class="review-hd">
+            <h3>
+                <a href="http://movie.douban.com/people/Honey/" title="陈小喵" class="review-hd-avatar">
+                    <img src="http://img3.douban.com/icon/u1009786-24.jpg" width="36" height="36" alt="陈小喵" class=""/>
+                </a>
+                <div id="tb-1002083" class="review-hd-expand">
+                    <a id="af-1002083" rel="sw-False" href="http://movie.douban.com/review/1002083/" class="j a_unfolder" style="background:none;">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&gt;" width="48" height="19" class="bn-arrow" title="展开全文" onclick="moreurl(this, {from:'review-show-full',track:'review-hottest',owner:'1295644',itself:1002083})"/>
+                    </a>
+                    <a id="au-1002083" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&lt;" width="48" height="19" class="bn-arrow" title="缩进全文"/>
+                    </a>
+                </div>
+                <a title="杀手不冷" href="http://movie.douban.com/review/1002083/" onclick="moreurl(this, {from: 'review-hottest'})" class="">杀手不冷</a>
+            </h3>
+            <div class="review-hd-info">
+                <a href="http://movie.douban.com/people/Honey/" class="">陈小喵</a>
+                2005-08-05 22:17:22
+                    <span class="allstar50" title="力荐"></span>
+            </div>
+        </div>
+        <div class="review-bd">
+            <div id="review_1002083_short" class="review-short">
+                <span class=""> 
+    “在这儿我们安全了，Leon”，当Matilda把兰花从盆中移入土地的时候，她轻轻地说。
+    镜头越过女孩的头顶渐高渐远，夏日的纽约阳光明媚，绿树葱茏。
+    然后，黑色的字幕，随着Sting的歌声响起。
+
+    是想要忍住的，却终于还是怔怔地掉下泪来，到不能自已的放声恸哭，身体因为感动和震撼显得有点抽搐。
+       爱与不爱已经分不清了，只是那种决然的离别实.........</span>
+                <div class="review-short-ft">
+                    <span id="1002083_short_useful">6137/6450</span>&nbsp;有用
+                        <a href="http://movie.douban.com/review/1002083/" onclick="moreurl(this, {from: 'review-hottest'})">554回复</a>
+                </div>
+            </div>
+            <div id="review_1002083_full" style="display:none">
+                <div id="review_1002083_full_content"></div>
+                
+                <div class="review-full-ft" name="1002083">
+                    <div class="review-full-ft-note">
+                            
+                            <ul class="main-share">
+                                
+    
+    <li class="rec" id="O-1002083">
+    <a href= "#"
+        data-type="O"
+        data-url="http://movie.douban.com/review/1002083/"
+        data-desc=""
+        data-title="杀手不冷  (豆瓣影评 - 关于电影《这个杀手不太冷 Léon》)"
+        data-pic=""
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </li>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = 'http://img3.douban.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('http://img3.douban.com/f/movie/f1162ff10dc353ebb3697d83fc5b982b4e60b36c/js/movie/lib/sharebutton.js');
+    </script>
+
+
+                            </ul>
+                            
+
+
+
+
+
+
+
+
+    <div class="rec-sec">
+
+    <span class="rec">
+
+<a data-user_id="0" href="https://www.douban.com/accounts/register?reason=collect" share-id="1002083" data-mode="plain" data-name="杀手不冷" data-type="com.douban.movie" data-desc=" 
+    “在这儿我们安全了，Leon”，当Matilda把兰花从盆中移入土地的时候，她轻轻地说。
+    镜头越过女孩的头顶渐高渐远，夏日的纽约阳光明媚，绿树葱茏。
+    然..." data-href="http://movie.douban.com/review/1002083/" data-image="" data-properties="{&#34;href&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;uid&#34;:&#34;tt0110413&#34;,&#34;name&#34;:&#34;这个杀手不太冷 Léon (1994)&#34;}" data-redir="http://movie.douban.com/static/dshare_proxy.html" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1012" data-object_id="1002083" data-target_type="rec" data-target_action="2" data-action_props="{&#34;subject_url&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;review_title&#34;:&#34;杀手不冷&#34;,&#34;review_url&#34;:&#34;http:\/\/movie.douban.com\/review\/1002083\/&#34;,&#34;subject_title&#34;:&#34;这个杀手不太冷&#34;}" data-btn_text="推荐" data-heading="推荐到豆瓣" data-sanity_key="_0e5cb" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                    </div>
+                    <div class="review-full-ft-useful">
+                            
+                            <span>
+                                <a class="btn-useful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_y'});voteuseful('r-1002083',true)">有用</a>
+                                <em id="ucount1002083u">6137</em>
+                            </span>
+                            <span>
+                                <a class="btn-unuseful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_n'});voteuseless('r-1002083',true)">没用</a>
+                                <em id="ucount1002083l">313</em>
+                            </span>
+                                <a href="http://movie.douban.com/review/1002083/" onclick="moreurl(this, {from: 'review-hottest'})">554回复</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div class="review">
+        <div class="review-hd">
+            <h3>
+                <a href="http://movie.douban.com/people/nomo/" title="孔乔" class="review-hd-avatar">
+                    <img src="http://img3.douban.com/icon/u1028796-1.jpg" width="36" height="36" alt="孔乔" class=""/>
+                </a>
+                <div id="tb-1006271" class="review-hd-expand">
+                    <a id="af-1006271" rel="sw-False" href="http://movie.douban.com/review/1006271/" class="j a_unfolder" style="background:none;">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&gt;" width="48" height="19" class="bn-arrow" title="展开全文" onclick="moreurl(this, {from:'review-show-full',track:'review-hottest',owner:'1295644',itself:1006271})"/>
+                    </a>
+                    <a id="au-1006271" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&lt;" width="48" height="19" class="bn-arrow" title="缩进全文"/>
+                    </a>
+                </div>
+                <a title="SHAPE OF MY HEART" href="http://movie.douban.com/review/1006271/" onclick="moreurl(this, {from: 'review-hottest'})" class="">SHAPE OF MY HEART</a>
+            </h3>
+            <div class="review-hd-info">
+                <a href="http://movie.douban.com/people/nomo/" class="">孔乔</a>
+                2005-10-05 22:27:19
+                    <span class="allstar50" title="力荐"></span>
+            </div>
+        </div>
+        <div class="review-bd">
+            <div id="review_1006271_short" class="review-short">
+                <span class="">题记：“这是关于两个小孩的故事，一个女孩和一个男孩，在他们心里，他们都是12岁，他们都感到失落而他们深爱彼此。”
+　　　　　　　　　　　　　　　　　　　 ——吕克·贝松”
+
+《Leon》。LucBesson的作品。
+始终不明白为什么会翻译成如此古怪的一个中文片名。
+全英文对白，拍摄于美国纽约。一部有着浓郁的好莱坞色彩的法国导演作品。影像风格和故.........</span>
+                <div class="review-short-ft">
+                    <span id="1006271_short_useful">1860/1931</span>&nbsp;有用
+                        <a href="http://movie.douban.com/review/1006271/" onclick="moreurl(this, {from: 'review-hottest'})">176回复</a>
+                </div>
+            </div>
+            <div id="review_1006271_full" style="display:none">
+                <div id="review_1006271_full_content"></div>
+                
+                <div class="review-full-ft" name="1006271">
+                    <div class="review-full-ft-note">
+                            
+                            <ul class="main-share">
+                                
+    
+    <li class="rec" id="O-1006271">
+    <a href= "#"
+        data-type="O"
+        data-url="http://movie.douban.com/review/1006271/"
+        data-desc=""
+        data-title="SHAPE OF MY HEART  (豆瓣影评 - 关于电影《这个杀手不太冷 Léon》)"
+        data-pic=""
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </li>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = 'http://img3.douban.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('http://img3.douban.com/f/movie/f1162ff10dc353ebb3697d83fc5b982b4e60b36c/js/movie/lib/sharebutton.js');
+    </script>
+
+
+                            </ul>
+                            
+
+
+
+
+
+
+
+
+    <div class="rec-sec">
+
+    <span class="rec">
+
+<a data-user_id="0" href="https://www.douban.com/accounts/register?reason=collect" share-id="1006271" data-mode="plain" data-name="SHAPE OF MY HEART" data-type="com.douban.movie" data-desc="题记：“这是关于两个小孩的故事，一个女孩和一个男孩，在他们心里，他们都是12岁，他们都感到失落而他们深爱彼此。”
+　　　　　　　　　　　　　　　　　　　 ——吕..." data-href="http://movie.douban.com/review/1006271/" data-image="" data-properties="{&#34;href&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;uid&#34;:&#34;tt0110413&#34;,&#34;name&#34;:&#34;这个杀手不太冷 Léon (1994)&#34;}" data-redir="http://movie.douban.com/static/dshare_proxy.html" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1012" data-object_id="1006271" data-target_type="rec" data-target_action="2" data-action_props="{&#34;subject_url&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;review_title&#34;:&#34;SHAPE OF MY HEART&#34;,&#34;review_url&#34;:&#34;http:\/\/movie.douban.com\/review\/1006271\/&#34;,&#34;subject_title&#34;:&#34;这个杀手不太冷&#34;}" data-btn_text="推荐" data-heading="推荐到豆瓣" data-sanity_key="_b8da8" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                    </div>
+                    <div class="review-full-ft-useful">
+                            
+                            <span>
+                                <a class="btn-useful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_y'});voteuseful('r-1006271',true)">有用</a>
+                                <em id="ucount1006271u">1860</em>
+                            </span>
+                            <span>
+                                <a class="btn-unuseful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_n'});voteuseless('r-1006271',true)">没用</a>
+                                <em id="ucount1006271l">71</em>
+                            </span>
+                                <a href="http://movie.douban.com/review/1006271/" onclick="moreurl(this, {from: 'review-hottest'})">176回复</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div class="review">
+        <div class="review-hd">
+            <h3>
+                <a href="http://movie.douban.com/people/mercurio/" title="Mercurio" class="review-hd-avatar">
+                    <img src="http://img4.douban.com/icon/u1083093-18.jpg" width="36" height="36" alt="Mercurio" class=""/>
+                </a>
+                <div id="tb-1044413" class="review-hd-expand">
+                    <a id="af-1044413" rel="sw-False" href="http://movie.douban.com/review/1044413/" class="j a_unfolder" style="background:none;">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&gt;" width="48" height="19" class="bn-arrow" title="展开全文" onclick="moreurl(this, {from:'review-show-full',track:'review-hottest',owner:'1295644',itself:1044413})"/>
+                    </a>
+                    <a id="au-1044413" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&lt;" width="48" height="19" class="bn-arrow" title="缩进全文"/>
+                    </a>
+                </div>
+                <a title="坚忍的魂与隐秘的梦" href="http://movie.douban.com/review/1044413/" onclick="moreurl(this, {from: 'review-hottest'})" class="">坚忍的魂与隐秘的梦</a>
+            </h3>
+            <div class="review-hd-info">
+                <a href="http://movie.douban.com/people/mercurio/" class="">Mercurio</a>
+                2006-05-12 19:06:02
+                    <span class="allstar50" title="力荐"></span>
+            </div>
+        </div>
+        <div class="review-bd">
+            <div id="review_1044413_short" class="review-short">
+                <span class="">   喝了些酒，光线很暗。最喜欢趁着这时候写东西，畅快淋漓。放着贝多芬的小提琴协奏曲。想起那个变态恶人说的：“贝多芬的开场很好，让我感觉非常爽，但是到后来，它就开始他妈的无聊。——知道我现在还不杀你的原因了么？”话说完，一阵乱扫之后，硕大的身躯倒地。一次屠杀完成。 
+
+  《Leon》的每一个角色都出乎意料的精彩出色。它没有很多高深的思索，却又太能让人琢.........</span>
+                <div class="review-short-ft">
+                    <span id="1044413_short_useful">1688/1729</span>&nbsp;有用
+                        <a href="http://movie.douban.com/review/1044413/" onclick="moreurl(this, {from: 'review-hottest'})">179回复</a>
+                </div>
+            </div>
+            <div id="review_1044413_full" style="display:none">
+                <div id="review_1044413_full_content"></div>
+                
+                <div class="review-full-ft" name="1044413">
+                    <div class="review-full-ft-note">
+                            
+                            <ul class="main-share">
+                                
+    
+    <li class="rec" id="O-1044413">
+    <a href= "#"
+        data-type="O"
+        data-url="http://movie.douban.com/review/1044413/"
+        data-desc=""
+        data-title="坚忍的魂与隐秘的梦  (豆瓣影评 - 关于电影《这个杀手不太冷 Léon》)"
+        data-pic=""
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </li>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = 'http://img3.douban.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('http://img3.douban.com/f/movie/f1162ff10dc353ebb3697d83fc5b982b4e60b36c/js/movie/lib/sharebutton.js');
+    </script>
+
+
+                            </ul>
+                            
+
+
+
+
+
+
+
+
+    <div class="rec-sec">
+
+    <span class="rec">
+
+<a data-user_id="0" href="https://www.douban.com/accounts/register?reason=collect" share-id="1044413" data-mode="plain" data-name="坚忍的魂与隐秘的梦" data-type="com.douban.movie" data-desc="   喝了些酒，光线很暗。最喜欢趁着这时候写东西，畅快淋漓。放着贝多芬的小提琴协奏曲。想起那个变态恶人说的：“贝多芬的开场很好，让我感觉非常爽，但是到后来，它就..." data-href="http://movie.douban.com/review/1044413/" data-image="" data-properties="{&#34;href&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;uid&#34;:&#34;tt0110413&#34;,&#34;name&#34;:&#34;这个杀手不太冷 Léon (1994)&#34;}" data-redir="http://movie.douban.com/static/dshare_proxy.html" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1012" data-object_id="1044413" data-target_type="rec" data-target_action="2" data-action_props="{&#34;subject_url&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;review_title&#34;:&#34;坚忍的魂与隐秘的梦&#34;,&#34;review_url&#34;:&#34;http:\/\/movie.douban.com\/review\/1044413\/&#34;,&#34;subject_title&#34;:&#34;这个杀手不太冷&#34;}" data-btn_text="推荐" data-heading="推荐到豆瓣" data-sanity_key="_7618b" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                    </div>
+                    <div class="review-full-ft-useful">
+                            
+                            <span>
+                                <a class="btn-useful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_y'});voteuseful('r-1044413',true)">有用</a>
+                                <em id="ucount1044413u">1688</em>
+                            </span>
+                            <span>
+                                <a class="btn-unuseful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_n'});voteuseless('r-1044413',true)">没用</a>
+                                <em id="ucount1044413l">41</em>
+                            </span>
+                                <a href="http://movie.douban.com/review/1044413/" onclick="moreurl(this, {from: 'review-hottest'})">179回复</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div class="review">
+        <div class="review-hd">
+            <h3>
+                <a href="http://movie.douban.com/people/BetaCancer/" title="贝塔先生" class="review-hd-avatar">
+                    <img src="http://img3.douban.com/icon/u1219680-113.jpg" width="36" height="36" alt="贝塔先生" class=""/>
+                </a>
+                <div id="tb-1464247" class="review-hd-expand">
+                    <a id="af-1464247" rel="sw-False" href="http://movie.douban.com/review/1464247/" class="j a_unfolder" style="background:none;">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&gt;" width="48" height="19" class="bn-arrow" title="展开全文" onclick="moreurl(this, {from:'review-show-full',track:'review-hottest',owner:'1295644',itself:1464247})"/>
+                    </a>
+                    <a id="au-1464247" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&lt;" width="48" height="19" class="bn-arrow" title="缩进全文"/>
+                    </a>
+                </div>
+                <a title="小萝莉与怪蜀黍阳光灿烂的日子" href="http://movie.douban.com/review/1464247/" onclick="moreurl(this, {from: 'review-hottest'})" class="">小萝莉与怪蜀黍阳光灿烂的日子</a>
+            </h3>
+            <div class="review-hd-info">
+                <a href="http://movie.douban.com/people/BetaCancer/" class="">贝塔先生</a>
+                2008-08-07 01:31:17
+                    <span class="allstar50" title="力荐"></span>
+            </div>
+        </div>
+        <div class="review-bd">
+            <div id="review_1464247_short" class="review-short">
+                <span class="">因为受够那些俗烂的内容
+我想用心做好一个自媒体
+
+它叫｛｛温卵人间｝｝
+它的微信公众号：wenluanrenjian
+
+＝这是我的微信公众订阅号＝
+＝在被信息狂轰滥炸的日常＝
+＝放心这里拒绝贴心的鸡汤＝
+＝我只想让生活有些真营养＝
+＝＝＝希望你能够喜欢＝＝＝
+
+
+－－－－－－－－－广告结束，我让路－－－－－－－－－－－
+
+  1994年，娜塔莉波曼刚满13岁。这个双.........</span>
+                <div class="review-short-ft">
+                    <span id="1464247_short_useful">1267/1474</span>&nbsp;有用
+                        <a href="http://movie.douban.com/review/1464247/" onclick="moreurl(this, {from: 'review-hottest'})">196回复</a>
+                </div>
+            </div>
+            <div id="review_1464247_full" style="display:none">
+                <div id="review_1464247_full_content"></div>
+                
+                <div class="review-full-ft" name="1464247">
+                    <div class="review-full-ft-note">
+                            
+                            <ul class="main-share">
+                                
+    
+    <li class="rec" id="O-1464247">
+    <a href= "#"
+        data-type="O"
+        data-url="http://movie.douban.com/review/1464247/"
+        data-desc=""
+        data-title="小萝莉与怪蜀黍阳光灿烂的日子  (豆瓣影评 - 关于电影《这个杀手不太冷 Léon》)"
+        data-pic=""
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </li>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = 'http://img3.douban.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('http://img3.douban.com/f/movie/f1162ff10dc353ebb3697d83fc5b982b4e60b36c/js/movie/lib/sharebutton.js');
+    </script>
+
+
+                            </ul>
+                            
+
+
+
+
+
+
+
+
+    <div class="rec-sec">
+
+    <span class="rec">
+
+<a data-user_id="0" href="https://www.douban.com/accounts/register?reason=collect" share-id="1464247" data-mode="plain" data-name="小萝莉与怪蜀黍阳光灿烂的日子" data-type="com.douban.movie" data-desc="因为受够那些俗烂的内容
+我想用心做好一个自媒体
+
+它叫｛｛温卵人间｝｝
+它的微信公众号：wenluanrenjian
+
+＝这是我的微信公众订阅号＝
+＝在被信息狂轰滥炸的日..." data-href="http://movie.douban.com/review/1464247/" data-image="" data-properties="{&#34;href&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;uid&#34;:&#34;tt0110413&#34;,&#34;name&#34;:&#34;这个杀手不太冷 Léon (1994)&#34;}" data-redir="http://movie.douban.com/static/dshare_proxy.html" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1012" data-object_id="1464247" data-target_type="rec" data-target_action="2" data-action_props="{&#34;subject_url&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;review_title&#34;:&#34;小萝莉与怪蜀黍阳光灿烂的日子&#34;,&#34;review_url&#34;:&#34;http:\/\/movie.douban.com\/review\/1464247\/&#34;,&#34;subject_title&#34;:&#34;这个杀手不太冷&#34;}" data-btn_text="推荐" data-heading="推荐到豆瓣" data-sanity_key="_c9331" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                    </div>
+                    <div class="review-full-ft-useful">
+                            
+                            <span>
+                                <a class="btn-useful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_y'});voteuseful('r-1464247',true)">有用</a>
+                                <em id="ucount1464247u">1267</em>
+                            </span>
+                            <span>
+                                <a class="btn-unuseful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_n'});voteuseless('r-1464247',true)">没用</a>
+                                <em id="ucount1464247l">207</em>
+                            </span>
+                                <a href="http://movie.douban.com/review/1464247/" onclick="moreurl(this, {from: 'review-hottest'})">196回复</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div class="review">
+        <div class="review-hd">
+            <h3>
+                <a href="http://movie.douban.com/people/hecaitou/" title="和菜头" class="review-hd-avatar">
+                    <img src="http://img4.douban.com/icon/u1035632-7.jpg" width="36" height="36" alt="和菜头" class=""/>
+                </a>
+                <div id="tb-1010612" class="review-hd-expand">
+                    <a id="af-1010612" rel="sw-False" href="http://movie.douban.com/review/1010612/" class="j a_unfolder" style="background:none;">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&gt;" width="48" height="19" class="bn-arrow" title="展开全文" onclick="moreurl(this, {from:'review-show-full',track:'review-hottest',owner:'1295644',itself:1010612})"/>
+                    </a>
+                    <a id="au-1010612" href="javascript:void(0);" class="j a_folder" style="background:none;display:none">
+                        <img src="http://img3.douban.com/f/shire/a1fdee122b95748d81cee426d717c05b5174fe96/pics/blank.gif" alt="&lt;" width="48" height="19" class="bn-arrow" title="缩进全文"/>
+                    </a>
+                </div>
+                <a title="关于杀手" href="http://movie.douban.com/review/1010612/" onclick="moreurl(this, {from: 'review-hottest'})" class="">关于杀手</a>
+            </h3>
+            <div class="review-hd-info">
+                <a href="http://movie.douban.com/people/hecaitou/" class="">和菜头</a>
+                2005-11-13 22:37:45
+                    <span class="allstar50" title="力荐"></span>
+            </div>
+        </div>
+        <div class="review-bd">
+            <div id="review_1010612_short" class="review-short">
+                <span class="">杀手是我们平淡无奇生活的一种补充，那是另外一种完全不同的生活状态。与之类似的单词还有海盗、间谍、猎人、流浪者。我一直觉得这些都是纯粹的男性职业，在这个男人也穿耳洞、着闪亮衣衫，雌雄莫辨的时代里，这几种人分明让人感觉得到一种原始的男性的魅力，雄性的力量。他们不见于我们日常的生活，但是在传说中他们又的确存在。我们通过事件去了解他们，经由我们的幻想去.........</span>
+                <div class="review-short-ft">
+                    <span id="1010612_short_useful">804/888</span>&nbsp;有用
+                        <a href="http://movie.douban.com/review/1010612/" onclick="moreurl(this, {from: 'review-hottest'})">102回复</a>
+                </div>
+            </div>
+            <div id="review_1010612_full" style="display:none">
+                <div id="review_1010612_full_content"></div>
+                
+                <div class="review-full-ft" name="1010612">
+                    <div class="review-full-ft-note">
+                            
+                            <ul class="main-share">
+                                
+    
+    <li class="rec" id="O-1010612">
+    <a href= "#"
+        data-type="O"
+        data-url="http://movie.douban.com/review/1010612/"
+        data-desc=""
+        data-title="关于杀手  (豆瓣影评 - 关于电影《这个杀手不太冷 Léon》)"
+        data-pic=""
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </li>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = 'http://img3.douban.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    'http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css',
+                    'http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js',
+                    'http://img3.douban.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('http://img3.douban.com/f/movie/f1162ff10dc353ebb3697d83fc5b982b4e60b36c/js/movie/lib/sharebutton.js');
+    </script>
+
+
+                            </ul>
+                            
+
+
+
+
+
+
+
+
+    <div class="rec-sec">
+
+    <span class="rec">
+
+<a data-user_id="0" href="https://www.douban.com/accounts/register?reason=collect" share-id="1010612" data-mode="plain" data-name="关于杀手" data-type="com.douban.movie" data-desc="杀手是我们平淡无奇生活的一种补充，那是另外一种完全不同的生活状态。与之类似的单词还有海盗、间谍、猎人、流浪者。我一直觉得这些都是纯粹的男性职业，在这个男人也..." data-href="http://movie.douban.com/review/1010612/" data-image="" data-properties="{&#34;href&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;uid&#34;:&#34;tt0110413&#34;,&#34;name&#34;:&#34;这个杀手不太冷 Léon (1994)&#34;}" data-redir="http://movie.douban.com/static/dshare_proxy.html" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1012" data-object_id="1010612" data-target_type="rec" data-target_action="2" data-action_props="{&#34;subject_url&#34;:&#34;http:\/\/movie.douban.com\/subject\/1295644\/&#34;,&#34;review_title&#34;:&#34;关于杀手&#34;,&#34;review_url&#34;:&#34;http:\/\/movie.douban.com\/review\/1010612\/&#34;,&#34;subject_title&#34;:&#34;这个杀手不太冷&#34;}" data-btn_text="推荐" data-heading="推荐到豆瓣" data-sanity_key="_c341e" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                    </div>
+                    <div class="review-full-ft-useful">
+                            
+                            <span>
+                                <a class="btn-useful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_y'});voteuseful('r-1010612',true)">有用</a>
+                                <em id="ucount1010612u">804</em>
+                            </span>
+                            <span>
+                                <a class="btn-unuseful j a_show_login" href="javascript:;" onclick="moreurl(this, {from:'mv_rv_vote_n'});voteuseless('r-1010612',true)">没用</a>
+                                <em id="ucount1010612l">84</em>
+                            </span>
+                                <a href="http://movie.douban.com/review/1010612/" onclick="moreurl(this, {from: 'review-hottest'})">102回复</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+        <div class="review-more">&gt;
+            <a href="http://movie.douban.com/subject/1295644/reviews">更多影评2585篇</a>
+        </div>
+
+    </div>
+
+
+    </div>
+
+
+    <br/>
+            
+            <h2 class="discussion_link">
+                <a href="/subject/1295644/discussion/">
+                    &gt; 去这部影片的讨论区（全部414条）
+                </a>
+            </h2>
+    <script type="text/javascript">
+        $(function(){if($.browser.msie && $.browser.version == 6.0){
+            var $info = $('#info'),
+                maxWidth = parseInt($info.css('max-width'));
+            if($info.width() > maxWidth) {
+                $info.width(maxWidth);
+            }
+        }});
+    </script>
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+    
+    
+    <div class="get_douban_app">
+        
+
+        <h2 class="discuss-title">302人正在 豆瓣App 讨论 这个杀手不太冷 Léon  · · · · · ·</h2>
+
+        <div class="bd">
+            <img src="http://www.douban.com/qrgen/v?text=http%3A//talion.douban.com/app_discuss/movie/1295644" alt="扫码下载豆瓣App">
+            <div class="info">
+                <div class="avatars">
+                    
+                    <img src="http://img3.douban.com/icon/u135414351-2.jpg" class="discuss-avator">
+                    
+                    <img src="http://img3.douban.com/icon/u77336174-2.jpg" class="discuss-avator">
+                    
+                    <img src="http://img3.douban.com/icon/u134972337-1.jpg" class="discuss-avator">
+                    
+                    <img src="http://img3.douban.com/icon/u121420806-1.jpg" class="discuss-avator">
+                    
+                    <img src="http://img4.douban.com/icon/user_normal.jpg" class="discuss-avator">
+                    
+                    <img src="http://img3.douban.com/icon/u74830440-4.jpg" class="discuss-avator">
+                </div>
+                <div class="text">用豆瓣App扫码，找人聊聊这部电影。<br>没有豆瓣App？
+                    <a href="http://www.douban.com/doubanapp/app?channel=subject_promotion_qr">去下载</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <div id="dale_movie_subject_top_middle"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+    <div class="gray_ad">
+        
+    <h2>
+        本片原声正在播放
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+    </h2>
+
+        <a target="_blank" href="http://douban.fm/?context=channel:10|subject_id:1295644">去豆瓣FM收听</a> 
+    </div>
+
+
+
+    
+
+
+
+
+
+
+
+    
+    <div class="tags">
+        
+        
+    <h2>
+        <i class="">豆瓣成员常用的标签</i>
+              · · · · · ·
+    </h2>
+
+        <div class="tags-body">
+                <a href="http://www.douban.com/tag/经典/?focus=movie" class="">经典</a>
+                <a href="http://www.douban.com/tag/法国电影/?focus=movie" class="">法国电影</a>
+                <a href="http://www.douban.com/tag/爱情/?focus=movie" class="">爱情</a>
+                <a href="http://www.douban.com/tag/温情/?focus=movie" class="">温情</a>
+                <a href="http://www.douban.com/tag/剧情/?focus=movie" class="">剧情</a>
+                <a href="http://www.douban.com/tag/人性/?focus=movie" class="">人性</a>
+                <a href="http://www.douban.com/tag/动作/?focus=movie" class="">动作</a>
+                <a href="http://www.douban.com/tag/犯罪/?focus=movie" class="">犯罪</a>
+        </div>
+    </div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下豆列推荐</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="http://movie.douban.com/subject/1295644/doulists">全部</a>
+            ) </span>
+    </h2>
+
+
+    
+    <ul>
+            <li>
+                <a href="http://www.douban.com/doulist/41624718/" target="_blank">电影001</a>
+                <span>(小极)</span>
+            </li>
+            <li>
+                <a href="http://www.douban.com/doulist/41073897/" target="_blank">谨以此献给孤独长日</a>
+                <span>(仙爪)</span>
+            </li>
+            <li>
+                <a href="http://www.douban.com/doulist/39522703/" target="_blank">严重收藏癖患者的网盘资源清单，病友进！！！</a>
+                <span>(emdoldman)</span>
+            </li>
+            <li>
+                <a href="http://www.douban.com/doulist/39455970/" target="_blank">电影</a>
+                <span>(唐欢若)</span>
+            </li>
+            <li>
+                <a href="http://www.douban.com/doulist/40185226/" target="_blank">- 电影人生。</a>
+                <span>(朝烟。)</span>
+            </li>
+    </ul>
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+              · · · · · ·
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="http://movie.douban.com/people/70958630/" class="others-interest-avatar">
+                    <img src="http://img3.douban.com/icon/u70958630-1.jpg" class="pil" alt="小可宋疯">
+                </a>
+                <div class="others-interest-info">
+                    <a href="http://movie.douban.com/people/70958630/" class="">小可宋疯</a>
+                    <div class="">
+                        9分钟前
+                        看过
+                        <span class="allstar50" title="力荐"></span>
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="http://movie.douban.com/people/130540894/" class="others-interest-avatar">
+                    <img src="http://img3.douban.com/icon/u130540894-1.jpg" class="pil" alt="水漾薄荷">
+                </a>
+                <div class="others-interest-info">
+                    <a href="http://movie.douban.com/people/130540894/" class="">水漾薄荷</a>
+                    <div class="">
+                        12分钟前
+                        看过
+                        <span class="allstar40" title="推荐"></span>
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="http://movie.douban.com/people/48554964/" class="others-interest-avatar">
+                    <img src="http://img3.douban.com/icon/u48554964-10.jpg" class="pil" alt="归隐">
+                </a>
+                <div class="others-interest-info">
+                    <a href="http://movie.douban.com/people/48554964/" class="">归隐</a>
+                    <div class="">
+                        12分钟前
+                        看过
+                        <span class="allstar50" title="力荐"></span>
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="http://movie.douban.com/subject/1295644/collections">832476人看过</a>
+                &nbsp;/&nbsp;
+            <a href="http://movie.douban.com/subject/1295644/wishes">49457人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅这个杀手不太冷的评论: <br/><span class="feed">
+    <a href="http://movie.douban.com/feed/subject/1295644/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2015 douban.com, all rights reserved
+</span>
+
+<a href="http://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://movie.douban.com/help/">帮助中心</a>
+    · <a href="http://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="http://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="http://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/6382ae8d820cf7d4.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="http://img3.douban.com/f/shire/ae32cb8310a09ba836b958b79d2cd1e706db2fed/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="http://img3.douban.com/f/movie/f194c7d21ecf3494043aefecc6881e701f3081a3/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="http://img3.douban.com/f/shire/38311a6c074fc29d6900856bf39a433061b98d6e/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="http://img3.douban.com/f/shire/4b3bad5e25de78678d700dd5353570dce3e6bbcc/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='https://www.douban.com';
+var account_pop={open:function(c,e){if(e){referrer="?referrer="+encodeURIComponent(e)}else{referrer="?referrer="+window.location.href}var g="",a="";if(c==="reg"){g="用户注册";a=HTTPS_DB+"/accounts/popup/movie_register"+referrer}else{if(c==="login"){g="用户登录";a=HTTPS_DB+"/accounts/popup/movie_login"+referrer}}var b=dui.Dialog({width:701,title:g,height:400,cls:"account_pop",isHideTitle:true,modal:true,content:"<iframe scrolling='no' frameborder='0' src='"+a+"'></iframe>"},true),d=b.node;d.undelegate();d.delegate(".dui-dialog-close","click",function(){var h=$("body");h.find("#login_msk").hide();h.find(".account_pop").remove()});if($(window).width()<700){var f="";if(c==="reg"){f=HTTPS_DB+"/accounts/register"+referrer}else{if(c==="login"){f=HTTPS_DB+"/accounts/login"+referrer}}window.location.href=f}else{b.open()}}};if(Douban&&Douban.init_show_login){Douban.init_show_login=function(b){var a=$(b);a.click(function(){var c=a.data("ref")||"";account_pop.open("login",c);return false})}}Do(function(){$("body").delegate(".pop_register","click",function(b){b.preventDefault();var a=$(this).data("ref")||"";account_pop.open("reg",a);return false});$("body").delegate(".pop_login","click",function(b){b.preventDefault();var a=$(this).data("ref")||"";account_pop.open("login",a);return false})});
+    </script>
+
+    
+    
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'WVbGEn/8uSM',
+            criteria = '7:吕克·贝松|7:1994|7:犯罪|7:美国电影|7:麦温|7:让·雷诺|7:丹尼·爱罗|7:经典|7:动作|7:法国电影|7:加里·奥德曼|7:娜塔莉·波特曼|7:剧情|7:温情|7:爱情|7:人性|3:/subject/1295644/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_right', 'dale_movie_subject_top_middle'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'http://img3.douban.com/f/shire/0a3e8bdd48446950d821b65613a24e86be2b067a/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '60']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-->
+
+  <script>_SPLITTEST='checknow.COMM_CG'</script>
+
+<script>var _check_hijack = function () {
+    var _sig = "WVbGEn/8", _login = false, bid = get_cookie('bid');
+    if (location.protocol != "file:" && (
+            typeof(bid) != "string" && _login ||
+            typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+        location.href += (/\?/.test(location.href)?"&":"?") + (
+                "_r=" + Math.random().toString(16).substring(2));
+    }};
+if (typeof(Do) != 'undefined') Do(_check_hijack);
+else if (typeof(get_cookie) != 'undefined') _check_hijack();
+</script></body>
+
+</html>
+
+
