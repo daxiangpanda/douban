@@ -12,13 +12,13 @@ sys.setdefaultencoding("utf-8")
 
 def get_info(content):
     soup = BeautifulSoup(content)
-    rank = soup.find('span','top250-no').get_text()[3]
+    rank = soup.find('span','top250-no').get_text().split('.')[1]
     name = soup.find('span',property="v:itemreviewed").get_text()
-    year = soup.find('span','year').get_text()
+    year = soup.find('span','year').get_text()[1:5]
     try:
         intro = soup.find('span','all hidden').get_text().replace(' ','')
     except:
-        intro = soup.find('span','property="v:summary"').get_text().replace(' ','')
+        intro = soup.find_all(property="v:summary")[0].get_text().replace(' ','')
     intro = intro.replace(r'\n','')
     score = soup.find('strong','ll rating_num').get_text()
     return rank,name,year,score,intro
@@ -36,9 +36,7 @@ for i in range(0,250,25):
         except urllib2.URLError,e:
             f.write('你寻找的电影不存在，错误码'+str(e.code))
         rank,name,year,score,intro = get_info(content)
-        s = "电影排名：" + rank + "名称:" + name + "上映时间:" + year + "评分" + score + "\n"
-        b = intro
+        s = "电影排名：" + rank + "名称:" + name + "上映时间:" + year + "评分" + score + "\n" + "intro:" + intro
         print "已写入" + s
         f.write(s)
-        f.write(b)
 f.close()
